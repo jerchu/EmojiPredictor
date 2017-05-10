@@ -1,3 +1,5 @@
+__author__ = "Jeremy Chu"
+
 import tweepy
 import json
 import re
