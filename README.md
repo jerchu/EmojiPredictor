@@ -7,6 +7,7 @@ Gensim: https://radimrehurek.com/gensim/
 Google's 300-dimensional Word2vec: https://code.google.com/archive/p/word2vec/
 Emoji2vec 300-dimensional vector space: https://github.com/uclmr/emoji2vec
 NLTK: http://www.nltk.org/
+Tweepy:http://www.tweepy.org/
 
 requires 3.5.x to run LSTM.py
 
