@@ -1,3 +1,4 @@
+__author__ = "Jeremy Chu"
 
 emojis = []
 
